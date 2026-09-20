@@ -1,0 +1,24 @@
+name: swipe_action_cell_x
+description: An iOS Mail-grade fluid swipe action cell with spring physics, rubber-band elasticity, progressive full-swipe actions, and haptics.
+version: 1.0.0
+repository: https://github.com/ShahzainBaloch/swipe_action_cell_x
+issue_tracker: https://github.com/ShahzainBaloch/swipe_action_cell_x/issues
+topics:
+  - ui
+  - animation
+  - listview
+  - swipe
+  - gesture
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
